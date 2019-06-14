@@ -1,5 +1,5 @@
 {
-    "name": "decorate/shrp",
+    "name": "decorate/decorate",
     "require": {
 	    "php": "^7.1.3",
         "laravel/framework": "5.8.*",
@@ -9,7 +9,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Decorate\\Shrp\\": "src/"
+            "Decorate\\Decorate\\": "src/"
         }
     },
     "minimum-stability": "dev"
